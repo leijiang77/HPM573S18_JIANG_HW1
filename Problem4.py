@@ -17,4 +17,7 @@ print (yours)
 print (ours1)
 print (ours2)
 
+#Using '+' produced a new list resulting from the concatenation of the two lists and 'append' just appends another element to an existing list.
+#As a result, changing the original list doesn't change "Ours1" as it's a new list and "Ours2" will be changed if the original list changed.
+
 
